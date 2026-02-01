@@ -1,0 +1,9 @@
+[P0]Problem Formulation - State parallelization and/or distribution of an ML algorithm with expectations (speedup, communication cost, response time etc.)
+
+[P1] Design - Solve the problem in [P0] by providing a design (that can be revised later based on feedback from instructors)
+
+[P1] (Revised) Design - Revise the design in [A3] and provide details about implementation aspects (including choices for dev. environment and exec.  platform)
+
+[P2] Implement P1 on the chosen platform
+
+[P3] Test and demonstrate the implementation for correctness as well as performance (say, running time vs. accuracy of prediction) If there is any deviation from expectations, mention why you think the solution didn't meet expectations.
